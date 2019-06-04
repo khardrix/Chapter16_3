@@ -72,7 +72,7 @@ public class Chapter16_3 extends Application {
         gPane.setVgap(25);
 
         // Create and Initialize the Scene, Set the Title of the Stage, Set the Scene to the Stage and Show the Stage
-        Scene scene = new Scene(gPane, 500, 500);
+        Scene scene = new Scene(gPane, 400, 100);
         primaryStage.setTitle("Chapter 16: Problem 3");
         primaryStage.setScene(scene);
         primaryStage.show();
